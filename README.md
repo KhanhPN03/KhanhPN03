@@ -34,6 +34,7 @@ Currently pursuing advanced knowledge in modern web technologies and agile metho
   - Developed technical solutions to streamline operational workflows
   - Collaborated with cross-functional teams to implement cost-reduction strategies
   - Documented business requirements and technical specifications
+  - WMS system design to optimize costs
 
 ---
 
