@@ -24,7 +24,7 @@ Currently pursuing advanced knowledge in modern web technologies and agile metho
 
 ## 👨‍💻 Professional Experience
 
-### **Business Systems Developer** | Han Foods
+### **Business Analyst cum Fullstack Developer** | Han Foods
 *Duration: 1 Year*
 
 - 🎯 **Project Focus**: Internal operational workflow optimization and logistics cost reduction
