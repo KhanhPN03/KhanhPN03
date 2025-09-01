@@ -3,6 +3,7 @@
 <div align="center">
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-KhanhPN03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhanhPN03)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Nam--Khanh--Developer-747373?style=for-the-badge&logo=github&logoColor=white)](https://namkhanh.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nam--khanh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nam-khanh)
 [![Email](https://img.shields.io/badge/Email-khanhpn31@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanhpn31@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-lazamanderrr-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/lazamanderrr)
@@ -52,11 +53,11 @@ Currently pursuing advanced knowledge in modern web technologies and agile metho
 - *Tech Stack: Full-stack web development with database optimization*
 - *Business Focus: Recruitment process automation and candidate-employer matching algorithms*
 
-### 📈 [Stock Tracking System](https://github.com/KhanhPN03/Stock-Tracking-System)
-**Real-time Financial Data Management**
-- Comprehensive stock portfolio tracking and analysis platform
-- *Tech Stack: Modern web technologies with real-time data processing*
-- *Business Focus: Financial data visualization and investment decision support*
+### 👚 [StyleHub_E-Commerce](https://github.com/KhanhPN03/style_ecom)
+**E-Commerce platform for style**
+- Comprehensive e-commerce platform
+- *Tech Stack: Modern web technologies*
+- *Business Focus: Bring comfort to users, create accents for e -commerce experiments*
 
 ### 🔄 [Auto BPMN](https://github.com/KhanhPN03/Auto-BPMN)
 **Business Process Modeling Automation**
