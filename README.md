@@ -44,7 +44,7 @@ Currently pursuing advanced knowledge in modern web technologies and agile metho
 ### 🌍 [TravelNow](https://github.com/KhanhPN03/TravelNow)
 **Travel Planning & Management Platform**
 - Modern web application for comprehensive travel planning and booking management
-- *Tech Stack: MEAN/MERN Stack, RESTful APIs*
+- *Tech Stack: MERN Stack, Python, PayOS, RESTful APIs*
 - *Business Focus: User experience optimization and booking workflow automation*
 
 ### 💼 [JobProvider](https://github.com/KhanhPN03/JobProvider)
@@ -56,7 +56,7 @@ Currently pursuing advanced knowledge in modern web technologies and agile metho
 ### 👚 [StyleHub_E-Commerce](https://github.com/KhanhPN03/style_ecom)
 **E-Commerce platform for style**
 - Comprehensive e-commerce platform
-- *Tech Stack: Modern web technologies*
+- *Tech Stack: NextJS, Shadcn/ui*
 - *Business Focus: Bring comfort to users, create accents for e -commerce experiments*
 
 ### 🔄 [Auto BPMN](https://github.com/KhanhPN03/Auto-BPMN)
